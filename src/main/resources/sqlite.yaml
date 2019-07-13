@@ -1,0 +1,4 @@
+dbType: sqlite
+sqlServer:
+  driverClassName: org.sqlite.JDBC
+  url: jdbc:sqlite:C:\sqlite\electricProject.db
